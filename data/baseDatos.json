@@ -1,0 +1,421 @@
+{
+    "camper": [
+        {
+            "cedula": "1234567894",
+            "nombre": "Nicol",
+            "apellido": "Ordo\u00f1ez",
+            "direccion": "Calle",
+            "acudiente": "Primo",
+            "telefono": "3145",
+            "telefonoFijo": "60123",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": false,
+                "Aprobado": true,
+                "Denegado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 100.0,
+                "modulo2": 0.0,
+                "modulo3": 0.0,
+                "modulo4": 0.0,
+                "modulo5": 0.0
+            },
+            "riesgo": true,
+            "grupo": "M1"
+        },
+        {
+            "cedula": "1234567896",
+            "nombre": "Sebas",
+            "apellido": "Betancourt",
+            "direccion": "Calle",
+            "acudiente": "Primo",
+            "telefono": "3145",
+            "telefonoFijo": "60123",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": false,
+                "Denegado": false,
+                "Cursando": true,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 35.2,
+                "modulo2": 77.0,
+                "modulo3": 0.0,
+                "modulo4": 0.0,
+                "modulo5": 0.0
+            },
+            "riesgo": true,
+            "grupo": "A1"
+        },
+        {
+            "cedula": "1231231231",
+            "nombre": "12",
+            "apellido": "12",
+            "direccion": "12",
+            "acudiente": "12",
+            "telefono": "1231231231",
+            "telefonoFijo": "1231231231",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": true,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "9876543210",
+            "nombre": "Vsdvsd",
+            "apellido": "Sbdsv",
+            "direccion": "Vsd",
+            "acudiente": "Vsd",
+            "telefono": "1234567891",
+            "telefonoFijo": "1234567891",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": true,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "M1"
+        },
+        {
+            "cedula": "1104132445",
+            "nombre": "Lina",
+            "apellido": "Ferreira",
+            "direccion": "Cll 98b 102-88",
+            "acudiente": "Carlos muriel",
+            "telefono": "3158889235",
+            "telefonoFijo": "6076365391",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false,
+                "Denegado": true
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "1104132449",
+            "nombre": "Li",
+            "apellido": "Ferira",
+            "direccion": "Cll 98b 102-88",
+            "acudiente": "Carlos muriel",
+            "telefono": "3158889235",
+            "telefonoFijo": "6076365391",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": true,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false,
+                "Denegado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "1234567890",
+            "nombre": "Laia",
+            "apellido": "Carrillo",
+            "direccion": "234567",
+            "acudiente": "Ali",
+            "telefono": "3105708389",
+            "telefonoFijo": "1234567890",
+            "estado": {
+                "En proceso": false,
+                "Inscrito": true,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "123456",
+            "nombre": "Sadfg",
+            "apellido": "Adsff",
+            "direccion": "Asdfg",
+            "acudiente": "Adsfh",
+            "telefono": "21345",
+            "telefonoFijo": "23456",
+            "estado": {
+                "En proceso": true,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "645321",
+            "nombre": "Gdsf",
+            "apellido": "Dsfa",
+            "direccion": "Gfdsa",
+            "acudiente": "Gt",
+            "telefono": "432567",
+            "telefonoFijo": "987654",
+            "estado": {
+                "En proceso": true,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        },
+        {
+            "cedula": "101290123",
+            "nombre": "Kevin",
+            "apellido": "Gutierrez",
+            "direccion": "Km 4 via a pamplona",
+            "acudiente": "Luis",
+            "telefono": "30119284932",
+            "telefonoFijo": "60729349",
+            "estado": {
+                "En proceso": true,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false,
+                "Denegado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
+        }
+    ],
+    "trainer": [
+        {
+            "nombre": "Johiver Hija",
+            "cedula": "1234",
+            "fechaNacimiento": "21/6/2007",
+            "skills": "Soy Programador de tiempo completo, estudio y duermo"
+        },
+        {
+            "nombre": "Johiver",
+            "cedula": "123456",
+            "fechaNacimiento": "21/6/2007",
+            "skills": "Soy Programador de tiempo completo, estudio y duermo"
+        },
+        {
+            "nombre": "Pepe",
+            "cedula": 321,
+            "fechaNacimiento": "43224533/43232525234/455234",
+            "skills": "bdshsbkvdsl"
+        },
+        {
+            "nombre": "fdsfsd",
+            "cedula": "1234567895",
+            "fechaNacimiento": "32/45/97",
+            "skills": "gfgfbbfg"
+        },
+        {
+            "nombre": "fs",
+            "cedula": "9876543218",
+            "fechaNacimiento": "21/67/1997",
+            "skills": "vsd"
+        }
+    ],
+    "coordinador": [
+        {
+            "identificador": 12343,
+            "nombre": "Karen",
+            "usuario": "karenload",
+            "contrase\u00f1a": "1234"
+        }
+    ],
+    "salones": {
+        "1": "Arthemis",
+        "2": "Apolo",
+        "3": "Sputnik"
+    },
+    "rutas": {
+        "1": {
+            "ruta": "NodeJS",
+            "modulo1": "Fundamentos de programacio\u0301n",
+            "modulo2": "Programacion Web",
+            "modulo3": "Programacion Formal",
+            "modulo4": "Base de datos",
+            "modulo5": "Backend"
+        },
+        "2": {
+            "ruta": "Java",
+            "modulo1": "Fundamentos de programacio\u0301n",
+            "modulo2": "Programacion Web",
+            "modulo3": "Programacion Formal",
+            "modulo4": "Base de datos",
+            "modulo5": "Backend"
+        },
+        "3": {
+            "ruta": "NetCore",
+            "modulo1": "Fundamentos de programacio\u0301n",
+            "modulo2": "Programacion Web",
+            "modulo3": "Programacion Formal",
+            "modulo4": "Base de datos",
+            "modulo5": "Backend"
+        }
+    },
+    "jornadas": {
+        "1": "6am - 10am",
+        "2": "10am - 2pm",
+        "3": "2pm - 6pm",
+        "4": "6pm - 10pm"
+    },
+    "grupos": [
+        {
+            "nombre": "M1",
+            "trainer": "1234",
+            "jornada": "2",
+            "ruta": "1",
+            "salon": "1",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "J2",
+            "trainer": "1234",
+            "jornada": "1",
+            "ruta": "2",
+            "salon": "1",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "U2",
+            "trainer": "1234",
+            "jornada": "2",
+            "ruta": "3",
+            "salon": "1",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "H5",
+            "trainer": "1234",
+            "jornada": "1",
+            "ruta": "2",
+            "salon": "2",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "G1",
+            "trainer": "9876543218",
+            "jornada": "4",
+            "ruta": "3",
+            "salon": "3",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "M1",
+            "trainer": "1234567895",
+            "jornada": "3",
+            "ruta": "2",
+            "salon": "2",
+            "cantidad": 0,
+            "graduado": false
+        },
+        {
+            "nombre": "A1",
+            "trainer": "123456",
+            "jornada": "2",
+            "ruta": "2",
+            "salon": "2",
+            "cantidad": 1,
+            "graduado": false
+        }
+    ]
+}
