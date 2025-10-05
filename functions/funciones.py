@@ -45,7 +45,7 @@ def intDosDigitos(mensaje):
     while True:
         numero = getInt(mensaje)
         cad =str(numero)
-        if len(cad)== 2: 
+        if len(cad)== 2:
             return cad
         elif len(cad)== 2 and cad[0] == '0': 
             return cad

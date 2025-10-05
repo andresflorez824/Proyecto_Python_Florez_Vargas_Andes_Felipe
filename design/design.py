@@ -2,11 +2,9 @@
 
 menuPrincipal = """
 ************************************
-*   Bienvenidos a CampusLands   ****
+***  Bienvenidos a CampusLands   *** 
 ************************************
-
 """
-
 
 menu1 = """
 Ingresa:

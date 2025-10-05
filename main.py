@@ -23,4 +23,4 @@ while True:
             input('Presiona cualquier tecla............')
             break
         case _:
-            print('¡¡¡Ingresaste una opcion invalida!')
+            print('¡Ingresaste una opcion invalida!')

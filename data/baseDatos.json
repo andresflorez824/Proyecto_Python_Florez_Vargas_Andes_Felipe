@@ -274,24 +274,52 @@
             },
             "riesgo": false,
             "grupo": "0"
+        },
+        {
+            "cedula": "1095301170",
+            "nombre": "Andres",
+            "apellido": "Florez",
+            "direccion": "Calle 46",
+            "acudiente": "Pablo",
+            "telefono": "3174918133",
+            "telefonoFijo": "600433",
+            "estado": {
+                "En proceso": true,
+                "Inscrito": false,
+                "Aprobado": false,
+                "Cursando": false,
+                "Graduado": false,
+                "Expulsado": false,
+                "Retirado": false,
+                "Denegado": false
+            },
+            "notas": {
+                "modulo1": 0,
+                "modulo2": 0,
+                "modulo3": 0,
+                "modulo4": 0,
+                "modulo5": 0
+            },
+            "riesgo": false,
+            "grupo": "0"
         }
     ],
     "trainer": [
         {
-            "nombre": "Johiver Hija",
+            "nombre": "marcos acevedo",
             "cedula": "1234",
             "fechaNacimiento": "21/6/2007",
             "skills": "Soy Programador de tiempo completo, estudio y duermo"
         },
         {
-            "nombre": "Johiver",
+            "nombre": "marquiño",
             "cedula": "123456",
             "fechaNacimiento": "21/6/2007",
             "skills": "Soy Programador de tiempo completo, estudio y duermo"
         },
         {
             "nombre": "Pepe",
-            "cedula": 321,
+            "cedula": "321",
             "fechaNacimiento": "43224533/43232525234/455234",
             "skills": "bdshsbkvdsl"
         },
@@ -355,7 +383,7 @@
     },
     "grupos": [
         {
-            "nombre": "M1",
+            "nombre": "C4",
             "trainer": "1234",
             "jornada": "2",
             "ruta": "1",
